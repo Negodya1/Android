@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Attributes</string>
+    <string name="hint">Text</string>
+    <string name="textcol1">ЧЁРНЫЙ ТЕКСТ</string>
+    <string name="textcol2">КРАСНЫЙ ТЕКСТ</string>
+    <string name="textsize1">РАЗМЕР - 8SP</string>
+    <string name="textsize2">РАЗМЕР - 24SP</string>
+    <string name="backcolor1">БЕЛЫЙ ФОН</string>
+    <string name="backcolor2">ЖЁЛТЫЙ ФОН</string>
+</resources>
